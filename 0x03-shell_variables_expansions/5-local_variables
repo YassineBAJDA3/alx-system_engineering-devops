@@ -1,2 +1,2 @@
 #!/bin/bash
-decalre
+declare
